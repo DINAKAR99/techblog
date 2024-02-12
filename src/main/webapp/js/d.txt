@@ -1,0 +1,82 @@
+{
+  "editor.unicodeHighlight.invisibleCharacters": false,
+  "diffEditor.renderSideBySide": false,
+  "git.autofetch": true,
+  "liveServer.settings.donotVerifyTags": true,
+  "editor.minimap.size": "fit",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "css.lint.unknownAtRules": "ignore",
+  "editor.defaultFormatter": "mwpb.java-prettier-formatter",
+  "[java]": {
+    "editor.defaultFormatter": "mwpb.java-prettier-formatter"
+  },
+
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "emmet.includeLanguages": { "javascript": "javascriptreact" },
+  "emmet.triggerExpansionOnTab": true,
+  "extensions.supportUntrustedWorkspaces": {},
+  "terminal.integrated.automationProfile.linux": {},
+  "terminal.integrated.automationProfile.osx": {},
+  "terminal.integrated.profiles.windows": {
+    "PowerShell": {
+      "source": "PowerShell",
+      "icon": "terminal-powershell",
+      "args": ["-ExecutionPolicy", "Bypass"]
+    }
+  },
+  "terminal.integrated.defaultProfile.windows": "PowerShell",
+  "workbench.iconTheme": "material-icon-theme",
+  "java.completion.favoriteStaticMembers": [
+    "org.junit.Assert.*",
+    "org.junit.Assume.*",
+    "org.junit.jupiter.api.Assertions.*",
+    "org.junit.jupiter.api.Assumptions.*",
+    "org.junit.jupiter.api.DynamicContainer.*",
+    "org.junit.jupiter.api.DynamicTest.*",
+    "org.mockito.Mockito.*",
+    "org.mockito.ArgumentMatchers.*",
+    "org.mockito.Answers.*"
+  ],
+  "editor.codeActionsOnSave": {},
+  "rsp-ui.enableStartServerOnActivation": [
+    {
+      "id": "redhat.vscode-community-server-connector",
+      "name": "Community Server Connector",
+      "startOnActivation": true
+    }
+  ],
+  "maven.executable.path": "C:\\Users\\CGG\\Documents\\Training\\servlets\\apache-maven-3.9.6\\bin\\mvn",
+  "json.schemas": [],
+  "workbench.settings.applyToAllProfiles": [
+  
+  ],
+  "vscode-pets.petSize": "small",
+  "vscode-pets.petType": "fox",
+  "vscode-pets.theme": "forest",
+  "vscode-pets.throwBallWithMouse": true,
+
+  "background.enabled": true,
+  "background.loop": false,
+  "background.useDefault": false,
+  "background.useFront": false,
+  "background.style": {
+    "content": "''",
+    "pointer-events": "none",
+    "position": "absolute",
+    "z-index": "99999",
+    "width": "70%",
+    "height": "100%",
+    "margin-left": "30%",
+    "background-position": "right",
+    "background-size": "cover",
+    "background-repeat": "no-repeat",
+    "opacity": 0.1
+  },
+  "background.customImages": ["https://cdn.wallpapersafari.com/5/23/AMbq2m.jpg"]
+}
